@@ -1,0 +1,827 @@
+{'NPS Rating':10 ,
+'Reason For Rating':'Great customer service, easy to use (and learn) product features, product serves critical part of our organization's learning strategy',
+ 'One Thing that we can do better':'More customization options; ability to remove the previously clicked on states in Self Help, ability for our different user groups to upload data specific to their group, etc.''}
+{'NPS Rating':7 ,
+'Reason For Rating':'Overall, the program works well and there are many areas for improvement.',
+ 'One Thing that we can do better':'Improved user-friendly editor, more detailed analytics dashboard, loading speed''}
+{'NPS Rating':8 ,
+'Reason For Rating':'The tool is pretty good and the team has been really helpful in implementation. I still think it's pretty use case dependent',
+ 'One Thing that we can do better':'Improved analytics/diagnostics around failed flows and flow dropouts. 
+A/B testing would be interesting as well ''}
+{'NPS Rating':8 ,
+'Reason For Rating':'We get good support and frequent new feature updates over the usage of whatflix.',
+ 'One Thing that we can do better':'It will be good if Whatflix can be customized based on end-user software, ex - An increasein the text, an increase in the pop-up size, etc, We want pop up and Beacon and smart tip part of Self Help. It will be good to customize.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Great features, like the idea of supporting users in their moment of need, in the live application.',
+ 'One Thing that we can do better':'It is hard to organize my content in my dashboard. I wish the PDF output was more usable. Some of the recent editor changes are harder to use, such as having to click Edit step after clicking the step.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Great product...has some minor glitches still as it's very new but very easy to use and does the job!',
+ 'One Thing that we can do better':'The Draft, Ready, and Production tabs are a big step forward but it would be even better to have all the content that is in these three sections on one page with maybe divided sections so I don't have to switch between widgets and content from the left side of the dashboard. ''}
+{'NPS Rating':8 ,
+'Reason For Rating':'I find it to be very useful for our clients and it has a lot of function',
+ 'One Thing that we can do better':'If it was more customizable regarding colours fonts format etc 
+
+Also if the process of pushing to production would be a quicker processes ''}
+{'NPS Rating':7 ,
+'Reason For Rating':'Cadence meetings can sometimes be rushed & the editor/dashboard still has a bit of ways to go in terms of being super user-friendly (there are a lot of things to remember LOL - content vs. widget, what phase of CLM things should be in to view, edit, etc., turning on preview mode, tagging for self help, CSS selectors, etc.)',
+ 'One Thing that we can do better':'Just keep doing what you are doing! Solicitating feedback and listening to your customers!''}
+{'NPS Rating':5 ,
+'Reason For Rating':'I'm just starting with the product; I need more time with it to give a proper score.',
+ 'One Thing that we can do better':'I need more time to evaluate the product. First thought is how publishing the extension could be improved. ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'It is very helpfull but we found some drawback ',
+ 'One Thing that we can do better':'I would like to control more deeply the linkage between flows and pages''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Whatfix is easy to use. Constantly being updated and improved. The support team is really solid as well.',
+ 'One Thing that we can do better':'Add more functionality to the editor.''}
+{'NPS Rating':7 ,
+'Reason For Rating':'I like the tool and how it provides nice options to deliver self-service content to our users',
+ 'One Thing that we can do better':'Make the process to create artifacts easier to reduce the time needed to move from idea to production. My team is stretched in many ways and we need to be able to add content quickly and efficiently. Part of the reason we have not expanded use of the tool is because of the limited time we have to create/implement new content. Plus, funding is a problem to pay Whatfix to help build the content. ''}
+{'NPS Rating':7 ,
+'Reason For Rating':'I think the whatfix features are great but it can be a bit tricky to get set up - need to rely on support a lot',
+ 'One Thing that we can do better':'Flows are too difficult to get them to latch to the right object - too many bugs''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Application is intuitive for end users, and also easier for the developer/designer/writer community to design.',
+ 'One Thing that we can do better':'Providing more controls and options in the configuration sections, and adding more designs templates and considerations at least every 6 months.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'We get good support and frequent new feature updates over the usage of whatflix.',
+ 'One Thing that we can do better':'It will be good if Whatflix can be customized based on end-user software, ex - An increasein the text, an increase in the pop-up size, etc, We want pop up and Beacon and smart tip part of Self Help. It will be good to customize.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Adds value to SaaS applications',
+ 'One Thing that we can do better':'Make the Editor more user friendly and understandable for non-tech persons''}
+{'NPS Rating':6 ,
+'Reason For Rating':'The customer service is excellent, but the tool (especially flows) break often or do not keep our users engaged. Also smart tips latch to different elements on the page unless strict constraints are applied to the smart tip. Whatfix is not as simple to use for content creators as our organization had originally hoped. ',
+ 'One Thing that we can do better':'Keep rolling out enhancements to your tools and being quick to resolve bugs. The customer service is superb. ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Fantastic supporting programme, very helpful in our quest to fully adopt our front office (and hopefully in the future) our mid office system.. Great support from Nisha
+',
+ 'One Thing that we can do better':'When creating a flow it would be nice if you are guided somewhat more to prevent errors / blockades in the steps''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Whatfix is easy to use and helps us accomplish exactly what we need for our website usership walk throughs.',
+ 'One Thing that we can do better':'I'm not a huge fan of the new extension/live editor. I really preferred the user friendly visuals of the previous version and how everything really mirrored the non-live editor. I'm sure I'll get used to it, but for now I miss the old one!''}
+{'NPS Rating':9 ,
+'Reason For Rating':'It is very helpful to overcome the customization limitations of the hosting website and to provide on-screen guidance to users.',
+ 'One Thing that we can do better':'More disruptive on-screen guidance (e.g chatbot) or even forms/buttons that simplify actions on the hosting site (e.g take me there, or click and send help email..)''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Very satisfied with Whatfix! Shreya is so attentive and everyone is dedicated to supporting our success. ',
+ 'One Thing that we can do better':'Bring back the Nudge functionality! (I know this is being worked on but we also have new use cases in addition to the ones we had previously) ''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Great solution and exceptional support!',
+ 'One Thing that we can do better':'Improve testing when making fundamental changes to the Whatfix tech stack to ensure it doesn't have a knock-on effect with clients (Recent issues with pop-ups locking our users screens due to custom data not being updated to work with the changes made by Whatfix)
+
+Avoiding negative feedback from our users is extremely important as we want them to see Whatfix as a way to save them time, as opposed to costing them time because they aren't able to access systems due to their screens being greyed-out (failed pop-up rendering).''}
+{'NPS Rating':7 ,
+'Reason For Rating':'On the positive, there isn't a more cost effective way to provide some of the tools WhatFix provides, such as Smart Tips, Beacons, Analytics and a Glossary. On the negative side, we're not using WhatFix to its full capability. Mostly because we have other tools at our disposal, including analytical tools. Also, implementing some of these widgets/tools can be time consuming, and the training material could be easier to understand and sift through.',
+ 'One Thing that we can do better':'Streamline the training material (the amount is overwhelming) and make it more intuitive. Also, educating clients on all the capabilities and features available to them.''}
+{'NPS Rating':2 ,
+'Reason For Rating':'Bad customer experience',
+ 'One Thing that we can do better':'Too much points of contacts, unclarities in learning process, ...''}
+{'NPS Rating':8 ,
+'Reason For Rating':'It is very easy to use',
+ 'One Thing that we can do better':'It is quite expensive compare to other suppliers. ''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Ease of work',
+ 'One Thing that we can do better':'For me everything is good''}
+{'NPS Rating':10 ,
+'Reason For Rating':'great service. follows up.',
+ 'One Thing that we can do better':'Provide very clear instructions during the renewal cycle. ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'The kind of features offered by Whatfix as well as their intent to accommodate new customer requests in their roadmap is commendable. Also the response time of Wfx's account and support team is really good.',
+ 'One Thing that we can do better':'NA''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Whatfix is a great tool, however we are not maximizing on its functionality.',
+ 'One Thing that we can do better':'Nothing, we as a business need to dedicate more time to Whatfix''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Ability for Whatfix to provide help to new users learning how to use an application.',
+ 'One Thing that we can do better':'nothing at this point in time.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'WhatFix is very user friendly and simple to pick up but if troubles come up WhatFix offers loads of documentation and learning. The Customer Success Team is also amazing! Always quick to help and we have regular meetings scheduled for support. ',
+ 'One Thing that we can do better':'At this time, I have no further recommendations. Very happy with WhatFix and the most recent dashboard update.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Excellent service, training and support!',
+ 'One Thing that we can do better':'A little more hands-on training (more practice)''}
+{'NPS Rating':9 ,
+'Reason For Rating':'I ranked a 9 because I love the solution and the support we receive for implementing and evolution. However, our utilization is lower than we'd like - so that it why it's not a 10.',
+ 'One Thing that we can do better':'I am not sure why the utilization is lower than we expected - we have tried all sorts of ways to advertise it and push Associates to use it in order to correctly carry out actions in our system - but still remains low.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'The product works well and the support has been very good.',
+ 'One Thing that we can do better':'Nothing at this time''}
+{'NPS Rating':9 ,
+'Reason For Rating':'feasibility, usability ',
+ 'One Thing that we can do better':'NA, I am fine with all the support I am receiving from the team.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Helped me with all my goals',
+ 'One Thing that we can do better':'the one hour and thirty training sessions are tedious''}
+{'NPS Rating':6 ,
+'Reason For Rating':'Whatfix is easy to use, but takes a while to get used to the same. Also, the draft, ready and production stage of whatfix makes it easier to work',
+ 'One Thing that we can do better':'Increase the time for training''}
+{'NPS Rating':9 ,
+'Reason For Rating':'It's incredibly helpful. ',
+ 'One Thing that we can do better':'Nothing, as far as i can tell. It's close to perfection as of now itself. ''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Almost promoting but not quite there yet as there still seem to be some issues from time to time.',
+ 'One Thing that we can do better':'Ensuring long term dedicated service teams''}
+{'NPS Rating':10 ,
+'Reason For Rating':'good support',
+ 'One Thing that we can do better':'continuous support after project launch''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Great customer service',
+ 'One Thing that we can do better':'NA''}
+{'NPS Rating':10 ,
+'Reason For Rating':'It's a great tool for training new hires and new applications.',
+ 'One Thing that we can do better':'I'd like to see more of other company use cases to help provide ideas of more opportunities to use Whatfix.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'- We started a project to integrate WhatFix to SuccessFactors where we're still waiting on documentation from our WhatFix representative. 
+- While I love what WhatFix can do and the direction it's going, our organization hasn't been ready to take full advantage of what it offers. ',
+ 'One Thing that we can do better':'Respond to our requests and e-mail. This might be hindered by firewalls or something similiar, but we're having trouble sending/recieving e-mails to WhatFix. ''}
+{'NPS Rating':8 ,
+'Reason For Rating':'The entire team is committed to building a new partnership. We appreciate the effort they have put forth.',
+ 'One Thing that we can do better':'Nothing at this time.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Functionality and support',
+ 'One Thing that we can do better':'Continue to develop the product''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Very good support and nearly instant response if there are any problems. Nice discussions with a good outcome for new ideas. ',
+ 'One Thing that we can do better':'-''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Functionality of the solution and the responsiveness of the account team.',
+ 'One Thing that we can do better':'Not sure, I feel Arty and the team have made a huge effort to get to now us and understand what new features of Whatfix would be useful.''}
+{'NPS Rating':7 ,
+'Reason For Rating':'Looks like a simple way to provide support when the users need it - early days but impressed so far.',
+ 'One Thing that we can do better':'At this stage nothing specific.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'WhatFix delivers on the promise of what they say they do as well as continuing to update & improve their product.',
+ 'One Thing that we can do better':'NA''}
+{'NPS Rating':10 ,
+'Reason For Rating':'The product is very user-friendly and helps us a lot. ',
+ 'One Thing that we can do better':'Guide us on how to make our users more dependent on whatfix rather than other support channels. ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'*As new customer with whatfix I've found the team very supportive in helping us understand the tool and find ways to progress forward with the project 
+* I think Whatfix itself will have significant impact on us being able to support out colleagues with onboarding and difficulties with the system. ',
+ 'One Thing that we can do better':'Nothing at the moment''}
+{'NPS Rating':10 ,
+'Reason For Rating':'The platform is incredible and our account manager Arthy is one of the best I have ever worked with!',
+ 'One Thing that we can do better':'Nothing that I can think of.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Good support from the team during implementation',
+ 'One Thing that we can do better':'x''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Very easy to use and create content. Excellent support and training also provided.',
+ 'One Thing that we can do better':'Nothing at this time.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Ease of use and continuous development of new features and improvements over time',
+ 'One Thing that we can do better':'Nothing for now!''}
+{'NPS Rating':1 ,
+'Reason For Rating':'Took months to do app analysis, and what was presented still not shown. So we've not achieved much in the 9 months since we started paying.
+Professional services included I have not seen any benefit from.
+Frustrated as not seeing the functionality or value promised during sales cycle.',
+ 'One Thing that we can do better':'Better communication, feels like it always take multiple times explaining things before it is understood.
+''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Our experience with Whatfix has been positive from the start. Now that we've moved through the initial deployment process, the support mode has kicked in and is excellent! Requests are responded to quicker than any I've sent with other companies (and even within our own company!) ',
+ 'One Thing that we can do better':'This isn't so much something that could be done differently, but as we move forward with an enterprise license, please help us think of things we might not think to think of! (In other words, we're a little nervous and will need all the help and advice we can get!) If you have any best practices, especially from banks who have used Whatfix on the same or similar systems, we would love to hear them.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Great tool, easy to use and good support',
+ 'One Thing that we can do better':'.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Intuitive product
+Outstanding support provided',
+ 'One Thing that we can do better':'Nothing I can think of currently''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Great implementation and ongoing support',
+ 'One Thing that we can do better':'N/A''}
+{'NPS Rating':10 ,
+'Reason For Rating':'really useful for introducing new topics',
+ 'One Thing that we can do better':'more flexibility''}
+{'NPS Rating':7 ,
+'Reason For Rating':'Good usability, good onboarding, our users (customers) adopt good to the content we provide',
+ 'One Thing that we can do better':'Resolve repeating support issues once and for all''}
+{'NPS Rating':10 ,
+'Reason For Rating':'It's a great team, it helps you very quickly when you need, came everytime with solutions. Explanations are very good and understandable.',
+ 'One Thing that we can do better':'For the moment is it perfect as it is.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'The usage of the product. ',
+ 'One Thing that we can do better':'Nothing.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Excellent product and support',
+ 'One Thing that we can do better':'Nothing I can think of''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Helpful tool. Easy to navigate.',
+ 'One Thing that we can do better':'Pricing ''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Customer service',
+ 'One Thing that we can do better':'N/A''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Ease of use and functionality ',
+ 'One Thing that we can do better':'Not sure''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Ease of use.',
+ 'One Thing that we can do better':'I would like a clearer understanding of the pricing structure.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Excellent product & service',
+ 'One Thing that we can do better':'Provide timely status updates on open issues and deliverables, especially if they span over days or weeks. Provide more details regarding the research behind the solution and/or recommendations.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Whatfix is a great system to provide in application help to clients with analytics to help you see the benefit it provides. They are constantly upgrading and developing the system from feedback and the staff are phenomenally helpful.',
+ 'One Thing that we can do better':'Cannot think of anything at this time.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Regular enhancements and customer service.',
+ 'One Thing that we can do better':'More permanent fixes to the issues.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'user friendly tool',
+ 'One Thing that we can do better':'more customer oriented''}
+{'NPS Rating':9 ,
+'Reason For Rating':'It makes the stuff very clear to understand. ',
+ 'One Thing that we can do better':'For now, it's all good''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Great product, flexible way of engagement and engaging community. ',
+ 'One Thing that we can do better':'There should be something, hey? ;-)
+But seriously, no I can't think of anything.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'The functionality is fine for what we are using the site for however there have been issues which though resolved it was after it was implemented which could have been prevented.',
+ 'One Thing that we can do better':'More knowledge one on one to better understand the use. Whatfix had a questionniare that they had us complete with them however; did not walk us through it.''}
+{'NPS Rating':7 ,
+'Reason For Rating':'Easy to implement and good support from Whatfix',
+ 'One Thing that we can do better':'I think whatfix have many solutions for guiding users and it is not necessary to develop any more ''}
+{'NPS Rating':10 ,
+'Reason For Rating':'customer service and the product itself',
+ 'One Thing that we can do better':'nothing that comes to mind''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Supports self directed learning ',
+ 'One Thing that we can do better':'It would be useful to set up a call to go through some of the new enhancements you have added ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Their account management service is very good. The tool itself it is too.',
+ 'One Thing that we can do better':'It is hard to understand all the possible functionalities and apply them to your user cases''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Good product, helpful staff, supportive project/ account managers',
+ 'One Thing that we can do better':'n/a''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Whatfix is willing to listen to our needs and find out ways to help us achieve our digital delivery needs.',
+ 'One Thing that we can do better':'The whatfix team is doing all that they can to help us be successful in delivering a better learning experience with our newly deployed product.  Nothing really comes to mind at the moment.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Good tool, although I still haven't master it. ',
+ 'One Thing that we can do better':'The difficulty we have now is to promote user using this tool. Since this is 1st time for user to work with this function, they have been used to get heavy training from skill team for 10 years and hard to change the habit. Although whatfix is ready, they still tends to ask and miss initiatives to explore forecast system with whatfix by themselves. Thus, the value of Whatfix is not fully shown.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'The efficiency and results of using the tool in our systems, customized attention for our account and the flexibility to negotiate',
+ 'One Thing that we can do better':'The range from 0 to 1000 users is very expensive, including your tool with an app with less than 1000 users is very difficult for us.''}
+{'NPS Rating':7 ,
+'Reason For Rating':'Whatfix team engagement',
+ 'One Thing that we can do better':'correctness on contracts, invoices, etc ''}
+{'NPS Rating':5 ,
+'Reason For Rating':'Whatfix is not so plug and play as it was promised. The team consists of Whatfix experts, but the management is chaotic. The team says it understands our use cases, but more often they don't. Issues only get solved after numerous reminders.',
+ 'One Thing that we can do better':'Be honest, tell us if you don't understand what we are asking. ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'9. Very happy with the product and service. There is scope for growth and quite hopeful for the future of our collaboration.',
+ 'One Thing that we can do better':'Nothing at this stage. We are not working as much with it as i would like due to other prioritization at the moment. 
+Will use it more once we get settled with other tasks. ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'- very motivatead employees and extremely good service
+- innovative solutions',
+ 'One Thing that we can do better':'nothing - keep your benchmark level!''}
+{'NPS Rating':9 ,
+'Reason For Rating':'The product is good with lots of applications, but by far the best part of Whatfix has been working with the team members/staff. Andre Pereira has been great to work with and always provides excellent assistance. ',
+ 'One Thing that we can do better':'Nothing particular comes to mind as I'm happy with the tool but continued investment in modern UI/UX always adds value. ''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Improvement in customer experience with all the support options that are available. ',
+ 'One Thing that we can do better':'N/A''}
+{'NPS Rating':9 ,
+'Reason For Rating':'High quality tool that eases training and support needs ',
+ 'One Thing that we can do better':'N/A''}
+{'NPS Rating':8 ,
+'Reason For Rating':'I like the product and see how it can help internal and external users learn a new application.',
+ 'One Thing that we can do better':'Nothing at the moment.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Our end user community finds this tool to be very helpful and has assisted in or training throughout the company. ',
+ 'One Thing that we can do better':'The  Whatfix team keeps us abreast of capabilities so nothing at this time. ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Great customer service and product',
+ 'One Thing that we can do better':'nothing''}
+{'NPS Rating':10 ,
+'Reason For Rating':'They've been very supportive and helpful in our implementation.',
+ 'One Thing that we can do better':'Nothing I'm aware of''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Great product & customer support',
+ 'One Thing that we can do better':'n/a''}
+{'NPS Rating':9 ,
+'Reason For Rating':'good tool and great support from the team',
+ 'One Thing that we can do better':'nothing really at this point''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Great selection of features and plenty of support provided when required.',
+ 'One Thing that we can do better':'Nothing that I can think of!''}
+{'NPS Rating':8 ,
+'Reason For Rating':'There have been some technical issues on the Xelence side that concern me.  I think they have been resolved but it tooks some effort.',
+ 'One Thing that we can do better':'n/a''}
+{'NPS Rating':10 ,
+'Reason For Rating':'The team have been extremely helpful in setting up Whatfix - the product itself has also been user friendly and has met our business need. ',
+ 'One Thing that we can do better':'N/A - I dont have any recommendations at this time, as the experience has been only positive from our end ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'The support we receive from Whatfix is incredible! Using DAP is so beneficial to our Learners/Users',
+ 'One Thing that we can do better':'At the moment, I can't think of anything. Our CSM is always open to our feedback and requests.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'WhatFix is a great resources for sites that are finalized or mostly finalized and also have ability to track unique users. ',
+ 'One Thing that we can do better':'The customer service is great! The potential is great! I can't think of anything that I would do differently - unless perhaps it was easier to review user data. ''}
+{'NPS Rating':10 ,
+'Reason For Rating':'The customer service, and response time from support has been efficient and fast.  Our customer success manager Payel has also provided great support and knowledge.',
+ 'One Thing that we can do better':'NA''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Ease of creating walkthroughs and training materials',
+ 'One Thing that we can do better':'NA''}
+{'NPS Rating':7 ,
+'Reason For Rating':'Its a very handy tool. However, I think for some people interface of the dashboard can be confusing and the technical requirements can be a little overwhelming.',
+ 'One Thing that we can do better':'Not sure. ''}
+{'NPS Rating':10 ,
+'Reason For Rating':'The staff are excellent and the product works well.',
+ 'One Thing that we can do better':'Not sure''}
+{'NPS Rating':10 ,
+'Reason For Rating':'They are always smileing when we have meeting, such a nice persons, we really like to work with the collagues. They are always trying their best and to understand the prozesses within the ALDI-world.',
+ 'One Thing that we can do better':'-''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Embedded help/training are very important to me.  The WhatFix tools are easy to use and provide info to our users in a very effective way.  Their customer service is also extremely good for UPS.',
+ 'One Thing that we can do better':'Continue doing what you have been doing!''}
+{'NPS Rating':8 ,
+'Reason For Rating':'WF is a powerful tool, but our integration has required way too much interaction with CS to get stuff done. I know the tool is maturing, and we are helping with that, but it is not as robust and user friendly as we need it to be. 
+
+That said, the CS team, product, and Payel have been fabulous and super patient. The people more than make up for any deficiency in the tool, real or imagined.  ',
+ 'One Thing that we can do better':'Just keep doing what you are doing. We see you are evolving, and growing, so the tool will get to where it needs to be.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'I like the tool.',
+ 'One Thing that we can do better':'Don't know''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Great interaction from the team ',
+ 'One Thing that we can do better':'Further enhance the capabilities of the DAA ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Whatfix is flexible to every tool and helps providing information in an easy way to users.',
+ 'One Thing that we can do better':'(all good; project team is friendly and fast - thumbs up)''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Great customer service and very responsive',
+ 'One Thing that we can do better':'I cannot think of anything right now''}
+{'NPS Rating':9 ,
+'Reason For Rating':'easy using the tool 
+excellent Service ',
+ 'One Thing that we can do better':'not shure''}
+{'NPS Rating':9 ,
+'Reason For Rating':'adaptable for a firm's specific needs',
+ 'One Thing that we can do better':'not sure''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Nice Tool , good oppertunities ',
+ 'One Thing that we can do better':'currently all fine''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Whatfix is an excellent tool, that can be used with various scenarios. The support from the Whatfix team has been very good, a true partnership.',
+ 'One Thing that we can do better':'I am satisfied with the value that Whatfix provides.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Great customer service, very helpful with issues and it greatly improves the system we use.',
+ 'One Thing that we can do better':'Great service so far''}
+{'NPS Rating':8 ,
+'Reason For Rating':'It is a useful tool with some limitations.',
+ 'One Thing that we can do better':'The platform is being continuously improved, which is good.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'DAP is a good tool for learning new processes',
+ 'One Thing that we can do better':'How to make the tool more relevant beyond the initial few years of new application''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Have been extremely happy with the support so far',
+ 'One Thing that we can do better':'I would love for there to be face to face support ''}
+{'NPS Rating':7 ,
+'Reason For Rating':'We are having a great time learning the tool, however have not deployed it as of yet, so cannot give a higher score.',
+ 'One Thing that we can do better':'No recommendations''}
+{'NPS Rating':10 ,
+'Reason For Rating':'easy to deploy, very attentive team! Master agreement with JNJ, ',
+ 'One Thing that we can do better':'na''}
+{'NPS Rating':9 ,
+'Reason For Rating':'great tool, great capabilities',
+ 'One Thing that we can do better':'NA''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Its a innovative platform that has true potential in helping our customers achieve successful learning paths and continued self sufficiency. I would also mention that it helps having a top tier CSC such as Priya that is attentive, at the ready to help me and the business. Being new to the platform, it was a little daunting but with Priya's encouragement and guidance, that feeling quickly went away. I'm able to speak with her easily and that I think is a huge plus when it comes to collaborating. ',
+ 'One Thing that we can do better':'Continue to listen to feedback. Adapt. Make it easier to get the analytics from the tool we want people to use. ''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Friendly UI, easy to implement and most importantly very helpful support.',
+ 'One Thing that we can do better':'Can there be any learning domain where end users can practice and learn various features of whatfix rather than doing experiments on the real stuff? like W3Schools web site has such a facility.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'I would definitely recommend DAP to my fellow colleagues and have been. The score would have been a 10! However we haven't gone live yet so providing everything works as it should the score would change to 10! ',
+ 'One Thing that we can do better':'I will answer this question once we are live and gaining the feedback from the business once they are using the Whatfix DAP day to day.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Good guidance tool',
+ 'One Thing that we can do better':'fast support ''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Great features, like the idea of supporting users in their moment of need, in the live application.',
+ 'One Thing that we can do better':'It is hard to organize my content in my dashboard. I wish the PDF output was more usable. Some of the recent editor changes are harder to use, such as having to click Edit step after clicking the step.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Excellent product, excellent people',
+ 'One Thing that we can do better':'Amit Kumar and Shaurya Chaudhary are working to see if we can enable a pop-up that would ask end users to self-identify into segmented user groups. That would be AMAZING!''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Quick response from support teams when needed',
+ 'One Thing that we can do better':'The only real issue is that I can't use preview mode myself so always have to use UAT to preview.  But this is more a Hays issue.''}
+{'NPS Rating':3 ,
+'Reason For Rating':'I have used only the beacons and they break every now and then. System is not very seamless. The beacons latch at random places and jump up and down. Sometimes, the beacons do not appear for some customers. 
+https://www.loom.com/share/896e086117c34762a545e5bd4e2287d8
+The analytics doesn't seem to be accurate. one time it showed a record that one user saw the beacon 389 times before clicking on it in the 390th time in a period of two weeks. ',
+ 'One Thing that we can do better':'Make the system less brittle and seamless''}
+{'NPS Rating':10 ,
+'Reason For Rating':'I love the product and the support we receive is EXCEPTIONAL -- Subhajit Sengupta is wonderful to work with -- very patient, knowledgeable and diligent ',
+ 'One Thing that we can do better':'I don't have anything specific to mention - I suppose I would say that not using the product on a daily basis, it can get confusing going between widgets content etc and knowing where to edit and how to get page tags-- that's why the support we receive is so exceptional- it's never difficult to get an answer to any challenge we come across''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Great solution and exceptional support!',
+ 'One Thing that we can do better':'Improve testing when making fundamental changes to the Whatfix tech stack to ensure it doesn't have a knock-on effect with clients (Recent issues with pop-ups locking our users screens due to custom data not being updated to work with the changes made by Whatfix)
+
+Avoiding negative feedback from our users is extremely important as we want them to see Whatfix as a way to save them time, as opposed to costing them time because they aren't able to access systems due to their screens being greyed-out (failed pop-up rendering).''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Easy to create content, and easy for users to understand',
+ 'One Thing that we can do better':'Better analytics behind utilization ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Friendly people, great support and a great product ',
+ 'One Thing that we can do better':'increase the analytics area''}
+{'NPS Rating':10 ,
+'Reason For Rating':'The technology & the support team',
+ 'One Thing that we can do better':'Continue to build analytics focused on the users engagement or lack thereof. ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Still does what it says on the tin',
+ 'One Thing that we can do better':'Same response as before. Let me generate an export of flow usage per user per date like the export you are currently generating each week for me.''}
+{'NPS Rating':7 ,
+'Reason For Rating':'I do think that Whatfix can be very valuable, however I haven't used all its features in the best way possible (due to limited time). In the future this score might be higher once I've used it more often.',
+ 'One Thing that we can do better':'Aligning your insights with the standard metrics that are often used in SaaS companies. The current analytics are nice, but not always providing us with the insights required to improve our business.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'We are happy with Whatfix but there is a low engagement from the side of the CRM Managers due to other priorities.',
+ 'One Thing that we can do better':'Improve the Analytics tool. We manage content of multiple businesses and currently we cannot get the data per business.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'The tool and the service is high quality.  I have already recommended Whatfix.',
+ 'One Thing that we can do better':'Expand reporting to include User specific metrics.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'I think Whatfix is a valuable tool to help customers timely while encouraging and nurturing independence ',
+ 'One Thing that we can do better':'Some names of the columns in the analytics sections are not quite accurate, e.g., No. of users clicked on the beacon section, it isn't only clicked but also people who hover ''}
+{'NPS Rating':10 ,
+'Reason For Rating':'I find Whatfix a robust and extremely user-friendly tool to generate Help content.',
+ 'One Thing that we can do better':'Explore the videos feature area a bit more. We will be happy to use whatfix if video capture and video generation process is a bit simplified. Currently, we are juggling between captivate and whatfix for videos. If Whatfix can enhance their videos feature, it will be great.''}
+{'NPS Rating':5 ,
+'Reason For Rating':'not user friendly.',
+ 'One Thing that we can do better':'Speed need to be fast. there is a lag currently.
+whatfix Interface should be made convinent.
+''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Whatfix's functionality is very flexible and adaptable.',
+ 'One Thing that we can do better':'On occasion, we have seen a few small glitches that need to be addressed.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Good DAP solution...and easy management. A lot of features. Good support.',
+ 'One Thing that we can do better':'For our italian market and large clients it's very important the possibility to manage in flexible way users in/out on the platform and track this activity. ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Good experience with WhatFix so far. Quick support.',
+ 'One Thing that we can do better':'We fell victim of the latest WhatFix update which was not compatible with our application. It would be good to be able to beta-test any future updates to ensure not conflicts with main application are present.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'The ease of its setup and for the quick support.',
+ 'One Thing that we can do better':'Inclusion of more features and flexibility that are still challenges to most of the companies.  ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'The usability of the product',
+ 'One Thing that we can do better':'Add additional widget types''}
+{'NPS Rating':6 ,
+'Reason For Rating':'Support teams are great as always at assisting with issues, our Customer Success Manager is also always willing to assist and help with our requests. However, we have been experiencing more and more issues with our account. These have been expressed before via tickets and meetings: 
+
+1 - Often times our content/widgets don't load on the CLM Dashboard and require a refresh.
+2 - The system could be faster since the new CLM release. ',
+ 'One Thing that we can do better':'Exports of reports to CSV/Excel format with more clearly defined data points i.e. definitions for proper interpretation. Our CSM is assisting us with our reporting needs on a monthly basis but I believe this should be a function within the system. 
+
+Secondly, we are finding the need for exporting of content (text, links, beacons, tooltips etc.) evermore important. Use case: we often need to find and update hyperlinks or adjust a previously quoted cost. Using a bulk export that we could edit and reupload to the system would assist in reducing 1-by-1 edits and save time. ''}
+{'NPS Rating':7 ,
+'Reason For Rating':'The solution is really versatile and the support provided by Whatfix is kind and timely. However, we have had many technical issues that slowed the implementation and launch.',
+ 'One Thing that we can do better':'Making it easier to implement and use for people with non-technical knowledge.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Whatfix has been amazing.  User friendly, and a great value add to our existing software.  Not a 10 cause the more advanced features can be hard to program.',
+ 'One Thing that we can do better':'I guess it would have to be making the advanced features easier to use.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Outstanding service and help when needed.',
+ 'One Thing that we can do better':'Sometimes a bit 'wonky' in selecting items to attach flows to, and branching flows are still difficult to perform for me personally.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Ease of usage',
+ 'One Thing that we can do better':'Instead of chrome extension, If we could access your services through web or an application. ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'With this in-app platform, creating contextual contents really helps the users a lot, not just to become productive with the help of the flows but also to be knowledgeable with the system. ',
+ 'One Thing that we can do better':'At the moment, the email notification we receive after content is pushed to production is pretty bare and simple. Would it be possible to include more information or  a list of the content that has been pushed, with a link attached to them. It would help to keep track of what has been pushed and when.
+
+Our team recommend having the following as well; monthly alignment or catch-up, common issues found and the solutions provided.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'the tool is great for improving the buyer journey, especially for first-time users, which is very important for us at the moment as some of our users have just changed platforms. Also, the account management and help in setting up content are brilliant. Nishant and the team have worked very hard and gone the extra mile in the last 2 weeks to get us set up. ',
+ 'One Thing that we can do better':'better content customisation for mobile.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Exceptional software with constant improvements being made.',
+ 'One Thing that we can do better':'Easier Dashboard to configure but you are definitely headed in the right directions with the latest update.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Collaboration and flexibility',
+ 'One Thing that we can do better':'Anything to make it easier to get to all users - Firefox support, native mobile support''}
+{'NPS Rating':9 ,
+'Reason For Rating':'The self help and content creation feature provided by Whatfix is extremely good and intuitive. The analytics provided is also very useful for providing insights.',
+ 'One Thing that we can do better':'The self hosting model process flow could be refined further.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Ease of use and super helpful support.',
+ 'One Thing that we can do better':'More troubleshooting options for flow failures. i.e. screenshots storage.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Whatfix is ok to have as this guides the employees in terms of navigation. However, since SF has a regular update every 6 months, most of the flows doesn't work due to the update. That the only way to fix that is to reselect again the flows. Which is not so ideal if you have lots of flows.',
+ 'One Thing that we can do better':'Maybe share some permanent solution to solve my above concern especially that update from SF happens every 6 months.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'The product is amazing and so far, our users are very pleased with the tool! Also, the service is amazing. There are not many companies with such a quick response rate, one that either solves/answers or knowing and trusting we will get an answer very soon. Great customer response/service is becoming hard to come by...not at Whatfix! Amazing people that want the same success for you!',
+ 'One Thing that we can do better':'Is there similar Information Security concerns (Banking/Finance Industry) that other companies have had. Is there a template that could be made or some sort of survey information that Whatfix would want to know, or ANY ISO might want to understand about certain things, i.e., concerns regarding role segmentation or unique user configuration. How it works and why it's safe. Just looking for an easy and efficient way to communicate across tech solutions...I am not IT, so I would like a better way to help facilitate knowledge sharing?!''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Richness of options and instruments',
+ 'One Thing that we can do better':'Integration with Project Management Tools ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'It's definitely intuitive and very helpful to bring user adoption into any platform that requires extensive training. Also very simple content management lifecycle.',
+ 'One Thing that we can do better':'To have more potential UI features to develop content''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Great and easy to use Dashboard - Easy to create content and CLM process makes managing content much easier.
+Great Insights analytical data to determine user behaviors.
+Great support from different levels of the Whatfix team.',
+ 'One Thing that we can do better':'Some part of the content development process could be simplified for quick turnaround times. Eg...Less CSS code amendments for popup widget layouts edits.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Ease of use, quick reference to the process',
+ 'One Thing that we can do better':'Introducing rolling back of the published content, access to modifying the CSS elements without code (basically using drag and drop method)''}
+{'NPS Rating':10 ,
+'Reason For Rating':'It is easy to use, and Whatfix is easy to work with',
+ 'One Thing that we can do better':'To be able to provide a longevity in the utilisation for customers to not just generate value from onboarding or new user use cases, but to also derive operational excellence and efficiency values from the existing and veteran users. ''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Our dedicated team of Digital Adoption Assistants (Prakruthi Jain & Vinit Kumar) and our Project Manager (E Yogesh Kumar) have been a fantastic addition to our change management and adoption efforts. Without their help, we would not be as successful at measuring engagement with our tools. ',
+ 'One Thing that we can do better':'We are struggling with some manual steps in the adoption process. The WIP Whatfix Analytics Dashboard is providing cookie values that are unidentifiable. We have to manually comb through every Whatfix extract to have accurate reporting. ''}
+{'NPS Rating':10 ,
+'Reason For Rating':'I've worked heavily with Whatfix and the Support Team over the last year and have really enjoyed it. It's been quite a learning experience!',
+ 'One Thing that we can do better':'From my perspective and at this stage of my work with Whatfix, improvements to analytic capabilities will always increase the value of Whatfix. ''}
+{'NPS Rating':7 ,
+'Reason For Rating':'I don't think we are using its capabilities to the fullest, and some of the user interface aspects of the system are hard to follow at times.',
+ 'One Thing that we can do better':'More regular trainings (webinars) on certain topics...for example, do how-to's on different areas of the application.''}
+{'NPS Rating':6 ,
+'Reason For Rating':'I do like the functionallities of Whatfix and the efforts the team take to respond to answers. But I do not like the reactive way of working: I have the feeling that there is a lack of understanding/insight on the bigger picture of our portal. We experienced many problems on issues that I think/believe might have been clear/anticipated sooner (eg on translations, Edge browser ...). ',
+ 'One Thing that we can do better':'Take more time for a clear understanding on the business rationale of the customers portal (not only the IT-configuration). Communicate more internally between the teams. Match the trainings with real customer use cases in the platform of the customer so it becomes more concrete and tangible.''}
+{'NPS Rating':7 ,
+'Reason For Rating':'Very useful tool for on the job aid, but not so useful for initial training.',
+ 'One Thing that we can do better':'Maybe the running of upskilling and training sessions?''}
+{'NPS Rating':6 ,
+'Reason For Rating':'Need the right internal resource to be able to use the tool.  ',
+ 'One Thing that we can do better':'Tool needs training and is not very intuitive - anything to make it idiot proof would be great.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Whatfix is pretty efficient at what it does but there are scenarios when we wish the user experience could have been much better.',
+ 'One Thing that we can do better':'Whatfix at the moment has only content analytics as well as well as User Actions. But it has the potential to be one among the best DAP and Analytics platform out there if you can include complete product analytics tools as well. This will make the product a one stop for all solution.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'I see the tool as an important support for the training and induction of new colleagues as well as a tool to get information about current developments in our CRM system.',
+ 'One Thing that we can do better':'The tool is already mature, but with analytics the question would be whether one could evaluate according to different groups of people, since content is created for different areas.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Excellent customer service. Collaborative approach to doing business. High sense of urgency for our needs. Ability to be flexible, creative, and innovative.',
+ 'One Thing that we can do better':'Continue to improve analytics offerings. 
+Improve 'stickiness' of content and/or provide easy solutions to reduce technical debt for content maintenance.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Excellent customer service, great product with continuous improvement for even greater success with our customers.',
+ 'One Thing that we can do better':'Easier reporting on multiple systems into a single dashboard. But the improvements in the analytics and self-design of the dashboards is a great addition.''}
+{'NPS Rating':4 ,
+'Reason For Rating':'Adoption by our users has not been as planned. More importantly, we continue having an issue with Firefox which is yet to be resolved by your engineering team. Also, price increases were not transparent for prior renewals and the big spikes in pricing are not justified by the product.',
+ 'One Thing that we can do better':'Better pricing and more transparency in negotiations. Resolve the technical issue with Firefox which is a widespread browser. Minimize the duplicate marketing outreach to your clients from different parties in your organization, we unfortunately need to maximize our time. 
+Note: No need to contact me as I have communicated the above before and will communicate in the next governance cadence as need be.''}
+{'NPS Rating':7 ,
+'Reason For Rating':'The tool is very comprehensive and exactly what we need to enhance our onboarding program, but the complexity to implement the tool was not stated upfront so there has been a lot of time wasted in troubleshooting, customization, explanation, workaround, etc. The implementation and enablement of the tool could be much smoother. ',
+ 'One Thing that we can do better':'Whatfix has been very responsive to our concerns and feedback, so I do not have additional details to give. We appreciate the partnership and willingness to quickly adjust to meet our expectations. ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Great product with great customer service. ',
+ 'One Thing that we can do better':'Ensure the company is growing at a reasonable pace. I'm not close enough to it, but it feels as if there are a lot of initiatives. Don't lose sight of your core products and customers.  ''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Support',
+ 'One Thing that we can do better':'Timely Production Rollout''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Great partnership',
+ 'One Thing that we can do better':'Ensure flows are robust and don't break randomly. That is a problem.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Whatfix is a great, helpful tool for end users and the support received from their team is some of the best.',
+ 'One Thing that we can do better':'Sometimes we find use cases where Whatfix could be tailored for custom use. Understandably these changes cannot be made quickly as they require UI development, but it would be great to have more flexibility. A specific example is with the type of survey questions/formatting offered. It's fairly limited. In one case, we would like users to be able to isolate the effects of various learning factors by weighing them to all equal 100. It cannot be done in the current survey setup. However, we have not requested this to be built.''}
+{'NPS Rating':6 ,
+'Reason For Rating':'Onboarding program is not easy',
+ 'One Thing that we can do better':'Onboard the new customers with professionalism and with your previous experience as you are the expert''}
+{'NPS Rating':5 ,
+'Reason For Rating':'Whatfix offers great support, but it is often hard to debug errors by yourself. We want to be as independent as possible, but flows don't work right away, usually. Also, formatting is transferred when using copy & paste, but sometimes this is only visible when testing the content in preview mode. No integrated translation memory or terminology database makes consistency very hard to achieve.',
+ 'One Thing that we can do better':'Better content and translation management. ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Great customer service and technical state of the art solution',
+ 'One Thing that we can do better':'Support the management of different flows with complex dependencies to each other''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Whatfix is a great tool, that supports users when using a new application',
+ 'One Thing that we can do better':'Easier content management in the dashboard and more guidance on how to best implement Whatfix for the different applications''}
+{'NPS Rating':8 ,
+'Reason For Rating':'It's helped us achieve our adoption and support goals. Support is really good, and I value the innovation that Whatfix has to continue improving its product.',
+ 'One Thing that we can do better':'Create consistency between the desktop and browser applications (ex. studio experience, dashboard layout, etc.). Mobile has become a bigger focus for our digital transformation efforts. Enabling this component for iOS applications would be a huge value add.''}
+{'NPS Rating':7 ,
+'Reason For Rating':'I like the vision and goal of Whatfix. However, we always have technical problems due to the high complexity of our software.',
+ 'One Thing that we can do better':'There needs to be a better overview of already created content, in terms of links to other content and in the dashboard of the creators a better rights concept.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Excellent communication and partnership, and a quality product',
+ 'One Thing that we can do better':'I would like to see the implementation of Variables in the whatfix editor. This would dramatically increase the functionality of whatfix without the need of AC''}
+{'NPS Rating':9 ,
+'Reason For Rating':'We have just deployed the whatfix into production and we are getting good comments from the user (we can say 70:30 ratio). ',
+ 'One Thing that we can do better':'Include helpguide authoring editors with more than 2000 words. ''}
+{'NPS Rating':8 ,
+'Reason For Rating':'-Fantastic customer service
+-True to their word and actions items in a timely manner
+-Approachable and willing to spend time explaining things in great detail',
+ 'One Thing that we can do better':'I believe the extension editor has some way still to go. My previous experience with another DAP (WalkMe) was extremely positive, and the options within their editor allowed for a great level of creativity and problem solving (i.e. the rule engine/drop down options could be expanded upon - allowing rules based on different elements to what the step is linked too/'text is'/'text contains'/etc.).''}
+{'NPS Rating':10 ,
+'Reason For Rating':'the quality of support and speed of response',
+ 'One Thing that we can do better':'defects in the application, there were not many but they were unexpected''}
+{'NPS Rating':9 ,
+'Reason For Rating':'for whatfix LMS',
+ 'One Thing that we can do better':'introducing new features''}
+{'NPS Rating':8 ,
+'Reason For Rating':'it is a great tool. there is a learning curve for development',
+ 'One Thing that we can do better':'developers/others have strong English skills if they are working with a US company. ''}
+{'NPS Rating':4 ,
+'Reason For Rating':'Flows work ok but help icons do not.  During demos this was shown to be an easy task for editors but they are having to spend a lot of time with whatfix. ',
+ 'One Thing that we can do better':'Make it work as demoed''}
+{'NPS Rating':6 ,
+'Reason For Rating':'Marking 6 because the amount of time we spent to set up the flows, we can realize the return only if widespread use has started and all or at least most of them find it helpful. A few early users have shared that the walkthroughs are helpful. But it's a little early to comment. I'd wait for users' feedback when our customer success folks aren’t around! ',
+ 'One Thing that we can do better':'Reduce content creation time for content creators should be the top priority. ''}
+{'NPS Rating':8 ,
+'Reason For Rating':'It is a application that can provide a lot of features to help the end user',
+ 'One Thing that we can do better':'it is sometimes hard to create a flow or a wigdet because you have to make sure you've done all the steps and extra things in order to make visible what you've made. ''}
+{'NPS Rating':7 ,
+'Reason For Rating':'It a really helpful-clever solution',
+ 'One Thing that we can do better':'Maybe support more the users to use independently the Platform and create independently flows etc.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Great support and customer success interactions. Whatfix is on going, accompany us on any challenge, and also makes proactive actions for this.',
+ 'One Thing that we can do better':'There are annoying things in the editing, inconvenient ways to re-edit both flows and widgets. there are also some few limitations''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Very collaborative and go above and beyond to deliver the project.',
+ 'One Thing that we can do better':'If we can prioritize complex items and work on them in an expedited fashion without waiting for a weekly check-in that would speed up the process.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'The support time is awesome! They are responsive, patient and they follow through with their assistance until the issue is fixed or question is answered.',
+ 'One Thing that we can do better':'Share real customer tried and true use cases with newer customers. This can be done anonymously if there is a conflict with sharing this information. It would certainly be helpful to those of us still trying to get our footing and ROI in the digital adoption world.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Its a userfriendly tool and the support team has been great. ',
+ 'One Thing that we can do better':'It would be a game changer, if the system could recognize where the user is in the workflow. Currently, if the user turns on Whatfix in the middle of a workflow, the system doesnt recognize where the user is and starts from the beginning of a workflow. ''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Many of our end users have provided feedback noting this tool has helped them considerably. The more help they get from this tool, the less 'tickets' they create for assistance.',
+ 'One Thing that we can do better':'At the moment, we still have to get users to add the chrome extension organically. If you have or can suggest a better and acceptable way to get the extension on all company user's computers would be helpful. ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Great tool, easy to use! Plus, it offers analytics',
+ 'One Thing that we can do better':'Provide release notes''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Great Support and usability.',
+ 'One Thing that we can do better':'More Manuals and tips for visibility. ''}
+{'NPS Rating':7 ,
+'Reason For Rating':'11 out of 10 for your exceptional customer service. Lightning fast responses - particularly via chat. Good Follow-up. 5 out of 10 for ease of using the application. It's far too clunky and buggy. Get that right and I'll definitely increase the rating. (I have already provided detailed feedback on how to improve the application.)',
+ 'One Thing that we can do better':'As per the above, streamline the UI. Again, I've provided some detailed feedback in this space.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Can be a great asset if collaborated with the client',
+ 'One Thing that we can do better':'Due to Intel's resources and costs, we weren't able to fully utilize Whatfix ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Good value. Great staff.',
+ 'One Thing that we can do better':'Consistent integration with my app with no need for whatfix support.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Functionality of whatfix',
+ 'One Thing that we can do better':'User interface and User manual in German language''}
+{'NPS Rating':10 ,
+'Reason For Rating':'It works.',
+ 'One Thing that we can do better':'A german documentation and user helpguide would be fine''}
+{'NPS Rating':10 ,
+'Reason For Rating':'User Friendly Application to use. ',
+ 'One Thing that we can do better':'May be add few more features related to the POP Ups''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Whatfix is a good product and has a great customer support.',
+ 'One Thing that we can do better':'Update/add use cases related to end users in fintech''}
+{'NPS Rating':7 ,
+'Reason For Rating':'To many changes in the Whatfix team working with us.',
+ 'One Thing that we can do better':'Demystify the way Whatfix is working: i icons displayed not displayed, whatfix extention, links ...''}
+{'NPS Rating':7 ,
+'Reason For Rating':'To many changes in the Whatfix team working with us.',
+ 'One Thing that we can do better':'Demystify the way Whatfix is working: i icons displayed not displayed, whatfix extention, links ...''}
+{'NPS Rating':9 ,
+'Reason For Rating':'product is pretty easy for the end user to operate',
+ 'One Thing that we can do better':'making the admin functions with the tags easier''}
+{'NPS Rating':10 ,
+'Reason For Rating':'The intuitive interface on both the customer-facing and the internal-facing sides makes it easy to implement Whatfix flows.',
+ 'One Thing that we can do better':'The main thing I wish is that we had easier permissioning options, especially ones that interact with Peoplesoft hierarchies. ''}
+{'NPS Rating':4 ,
+'Reason For Rating':'It depends on the use case: for website I would definitely be more prone to recommend it. For complex softwares I see some issues. ',
+ 'One Thing that we can do better':'I am happy about the recent changes in the CMS. The user-friendly CMS is something that I'd like to encourage you to develop further. ''}
+{'NPS Rating':4 ,
+'Reason For Rating':'12+ months in and still not live. Struggling again and again.',
+ 'One Thing that we can do better':'Things should just work. Without having to contact support again and again,''}
+{'NPS Rating':5 ,
+'Reason For Rating':'The score is not necessarily a reflection of whatfix capabilities or the teams we work with. We are yet to get benefits out of whatfix and this is due to Myraid of challenges.',
+ 'One Thing that we can do better':'In an application like ours which integrates with Whatfix, we need a capability where we can have master flows and master content created and then per implementation we should be able to just create deviations. Have discussed with Whatfix team in past''}
+{'NPS Rating':7 ,
+'Reason For Rating':'I like how easy Whatfix is to use',
+ 'One Thing that we can do better':'Sometimes it can be clunky to use. Improve user ease, speed and look. ''}
+{'NPS Rating':7 ,
+'Reason For Rating':'I like how easy Whatfix is to use',
+ 'One Thing that we can do better':'Sometimes it can be clunky to use. Improve user ease, speed and look. ''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Really easy to use and clear user experience. Important for new users to be trained rapidly on repetitive actions',
+ 'One Thing that we can do better':'From my little experience on this tools I have found some bugs on some flows where I have tried to put a pop-up somewhere in a page and the pop-up in the rendering was not displayed correctly''}
+{'NPS Rating':9 ,
+'Reason For Rating':'For our organization Whatfix adds value to our users' experience as they learn and use Salesforce. It is a flexible and effective companion to the software. ',
+ 'One Thing that we can do better':'When creating the widgets and content, it can be a challenge to know the next steps. Adding some wizards or a checklist for each widget of what is needed for it to work would be helpful. ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Whatfix provides the in the moment end user support I need.',
+ 'One Thing that we can do better':'Tighter integration with the Bullhorn team to stay ahead of updates in UI and/or code which could have negative downstream effects on users if not properly anticipated.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'usabillity of the tool is on plus, minus are the bugs Im facing with flow creation',
+ 'One Thing that we can do better':'establish a way I can get direct support on the flow incidents''}
+{'NPS Rating':6 ,
+'Reason For Rating':'The software is good to use to help users be successful.',
+ 'One Thing that we can do better':'It needs to be more intuitive, when setting up the display and visibility rules I never know how to do what with what widget I choose.''}
+{'NPS Rating':7 ,
+'Reason For Rating':'We've needed to do a lot of customisation to get the product to work for our company ',
+ 'One Thing that we can do better':'Build in features we have needed to get customised to be standard features ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'great engagement and support',
+ 'One Thing that we can do better':'It would be nice if all of the video content had the transcript/closed caption on it ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'The tool fulfills it purpose, but periodically we experience bugs as well as not always following the logic behind the UX.',
+ 'One Thing that we can do better':'Currently our focus is on content consumption and to what degree it is consumed.  A metric like seconds spend on step, seconds spend on popup could support deducing if users have read the content or skipped.''}
+{'NPS Rating':6 ,
+'Reason For Rating':'Not properly live with the solution yet - issues taking far too long to resolve.',
+ 'One Thing that we can do better':'Provide more help so that we are fully live and getting value from our investment.''}
+{'NPS Rating':6 ,
+'Reason For Rating':'The product is great when it works but with the recent issues we've been experiencing it's been more trouble than useful.',
+ 'One Thing that we can do better':'I think the technical support could use some work - it seems like there are a lot of misunderstandings and complications whenever we get on calls to work through issues and asks.''}
+{'NPS Rating':7 ,
+'Reason For Rating':'I like the options  we have for building our own content, but we haven't had the best experience with the app being stable on our platform. Things have stopped working and disappeared unexpectedly. I hoped for less troubleshooting so early on in our rollout. ',
+ 'One Thing that we can do better':'Support has been very helpful and worked quickly to fix our issues. I do wish that the flows wouldn't be so dependent on specific user actions or a users' location on the page. ''}
+{'NPS Rating':7 ,
+'Reason For Rating':'It's a good tool that has useful features. The user experience has been improving over time, but I still find some information hard to find or the order of operations confusing. Usually it's small things, for a simple example when I create a version of a flow in draft in order to edit it I would like to be brought into the drafts tab automatically since that's my next logical step. Otherwise it feels like nothing happened. ',
+ 'One Thing that we can do better':'Analytics section is still confusing to me, especially with incomplete flows. I wish there was a way to get more clear insight on why users don't finish flows without relying on the user's input for this. ''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Excellent customer support
+Great assistance helping us take advantage of new tools
+Whatfix continually improves existing features and adds new ones
+',
+ 'One Thing that we can do better':'Some improvements to User Actions:
+•	Ability to add more than 50 User Actions per Page Tag
+•	Ability to Push to Production separate from a Content/Widget Push to Production
+•	Ability to deactivate User Actions without deleting them
+''}
+{'NPS Rating':9 ,
+'Reason For Rating':'customer service/availability ',
+ 'One Thing that we can do better':'help us identify which roles are regularly returning to our top searches. Ex. new associates or experienced associates in various areas of our business. ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Good cooberation, ongoing improvement with new features',
+ 'One Thing that we can do better':'Translations in parallel to english content maintaince: Would be great if I could adapt German translation on the same point where I do the English adaptions''}
+{'NPS Rating':8 ,
+'Reason For Rating':'I think its a great tool, but you need people and $ resources which not everyone has',
+ 'One Thing that we can do better':'There is searching for content and Searching for Widgets, I would like a general search function that will search everything at one time.  ''}
+{'NPS Rating':8 ,
+'Reason For Rating':'The personalised service from the team is excellent. I did find the dashboard a little complicated to navigate at times.',
+ 'One Thing that we can do better':'Simplify the interface to make it a bit more intuitive. Especially how some things are done via the extension and some via the dashboard.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Ability to provide content to users in easy consumable format.  Content used for new users and improve adoption, data entry, pipeline management for existing users.  Long term this will reduce in Country support given to users.    ',
+ 'One Thing that we can do better':'Continuous feedback to stakeholders with new product releases.  Suggest this could be done via email rather than cadence meetings. This will ensure we are assessing new functionality and utilising it where applicable for our application. ''}
+{'NPS Rating':9 ,
+'Reason For Rating':'contact with Whatfix when you have questions is really easy',
+ 'One Thing that we can do better':'Make it even more userfriendly''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Fantastic offerings and functionality',
+ 'One Thing that we can do better':'Ease of integration''}
+{'NPS Rating':10 ,
+'Reason For Rating':'The tool is easy to use and the support is better than any platform I've used. We are so happy with Neha and her support',
+ 'One Thing that we can do better':'NA''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Not is the tool amazing, but the Whatfix personnel like Melvin, Vikas, Kaameet, and many others, are just fantastic. Very quick to respond and assist!',
+ 'One Thing that we can do better':'Consider making Whatfix multi-app without additional cost and allowing to easily move from one to the other.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Pleasant tool to use and very good customer support',
+ 'One Thing that we can do better':'A clear price list.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Ease of use of the application and easy to follow self-led training.',
+ 'One Thing that we can do better':'N/A - pending system launch.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Great customer service.',
+ 'One Thing that we can do better':'I am responsible for renewals; therefore, I don't utilize the product.  My perspective is from the renewal process standpoint.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Highly engaged, knowledgeable, and supportive Whatfix team, speed to market, no-code content delivery, ability to deploy advanced customization as needed',
+ 'One Thing that we can do better':'I don't have suggestions on what could be done differently.  I would just ask for continued support on Surveys and User group segmentation. ''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Ease of use and available functionality.',
+ 'One Thing that we can do better':'To soon to give constructive feedback, so far everything is going well.''}
+{'NPS Rating':2 ,
+'Reason For Rating':'Our what fix project has not been a success. I regret signing the deal. ',
+ 'One Thing that we can do better':'xx''}
+{'NPS Rating':9 ,
+'Reason For Rating':'Great company to deal with. Excellent levels of service.',
+ 'One Thing that we can do better':'Introduce the technical team.''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Working with DAA has been a great experience as well as some of the new features such as Launcher are great!',
+ 'One Thing that we can do better':'none at this stage''}
+{'NPS Rating':10 ,
+'Reason For Rating':'It provides good solutions for many different cases. ',
+ 'One Thing that we can do better':'Everything is perfect.''}
+{'NPS Rating':10 ,
+'Reason For Rating':'Easy to use especially now that we have control over when we deploy our own content. Like that we can make modifications when needed. Excellent support from Whatfix',
+ 'One Thing that we can do better':'We've discussed already; however, the two primary things are the survey capabilities and the addition of agent skills to Whatfix''}
+{'NPS Rating':7 ,
+'Reason For Rating':'It's a good tool that has useful features. The user experience has been improving over time, but I still find some information hard to find or the order of operations confusing. Usually it's small things, for a simple example when I create a version of a flow in draft in order to edit it I would like to be brought into the drafts tab automatically since that's my next logical step. Otherwise it feels like nothing happened. ',
+ 'One Thing that we can do better':'Analytics section is still confusing to me, especially with incomplete flows. I wish there was a way to get more clear insight on why users don't finish flows without relying on the user's input for this. ''}
+{'NPS Rating':8 ,
+'Reason For Rating':'Whatfix has been a good partner and we are hoping to see value from this tool.  Our launch has been difficult, mostly due to internal J&J issues which has affected our ability to measure impact.  I see Whatfix as a valuable solution to meet the changing need for training and assistance within complicated applications like our Quality System Applications.  ',
+ 'One Thing that we can do better':'The ability of Whatfix to scale resources quickly, both up and down, has been a challenge as we are managing significant fluxes in workload and challenges with internal deadlines (which then impacts the deadlines with Whatfix content).  The local team keeps an open dialogue and we continue to work through challenges.  I also think this is an advantage for Whatfix as the team has been very receptive to changes.  Overall, I will say the tool is less simple to implement than I had hoped - even with a more updated platform (e.g. Salesforce), as we still have issues with content working out of the box.  Again the team is fast to respond and very willing to work with us, but this impacts our ability to self-serve on content development.''}
+{'NPS Rating':7 ,
+'Reason For Rating':'We still are starting with the tool and I would want to understand better its performance when improving engagement.',
+ 'One Thing that we can do better':'You guys are doing well. We found some issues withs flows not working consistently, but the support acted and helped us. Maybe avoiding that problems like this doesn't happen first place. ''}
+{'NPS Rating':5 ,
+'Reason For Rating':'restrictions with licensing',
+ 'One Thing that we can do better':'Keep us abreast with user cases, success stories, best practices and RoI options.''}
+{'NPS Rating':3 ,
+'Reason For Rating':'It is difficult to keep information up to date. Especially when since there is updates frequently happening on other suppliers UI. ',
+ 'One Thing that we can do better':'Provide simple ideas that could have big benefits to our end users and assist in implementing those ideas in real world application.''}
+{'NPS Rating':9 ,
+'Reason For Rating':'The benefits of having in app training content and we have had great support from the Whatfix team, especially with Aravind on board.',
+ 'One Thing that we can do better':'Right now it's more about us catching up with content creation to start using some of the other features that are available.''}
+{'NPS Rating':5 ,
+'Reason For Rating':'I think the team does a good job of explaining the tool and are hands on with the implementation.  However, support after go-live has not been the best.  The support rep was great, but I mean general support.  Also, we ran into some issues with adoption, which I feel like the team could have helped us address better from the beginning.',
+ 'One Thing that we can do better':'Providing better hyper care support after go-live.  Also, be proactive with know issues as it relates to SuccessFactors releases and impact on Whatfix flows and other content.''}
